@@ -1,0 +1,30 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Simple philosopher"
+theme = "archie"
+
+# Social Profiles
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/gehlotsuresh"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/SuresGehlot"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/sureshgehlot/"
+
+[[params.social]]
+name = "Medium"
+icon = "medium"
+url = "https://sureshofgehlot.medium.com"
+
+[[params.social]]
+name = "Substack"
+icon = "substack"
+url = "https://substack.com/profile/91095546-suresh-gehlot?utm_source=substack_profile"
